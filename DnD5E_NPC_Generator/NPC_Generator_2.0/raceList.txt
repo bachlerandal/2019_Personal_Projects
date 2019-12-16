@@ -1,0 +1,9 @@
+Dwarf
+Elf
+Dark-Elf
+High-Elf
+Half-Elf
+Wood-Elf
+Human
+Gnome
+Halfing
